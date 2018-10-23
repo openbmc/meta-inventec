@@ -1,1 +1,0 @@
-obmc-libobmc-intf.bbappend
