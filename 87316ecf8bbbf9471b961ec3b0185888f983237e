@@ -1,0 +1,9 @@
+Ok-To-Test+1: Jenkins <openbmc-ci-admin@ozlabs.org>
+Verified+1: Jenkins <openbmc-ci-admin@ozlabs.org>
+Code-Review+1: KenChen <chen.kenyy@inventec.com>
+Code-Review+2: Brad Bishop <radsquirrel@gmail.com>
+Submitted-by: Brad Bishop <radsquirrel@gmail.com>
+Submitted-at: Mon, 16 Sep 2019 11:37:06 +0000
+Reviewed-on: https://gerrit.openbmc-project.xyz/c/openbmc/meta-inventec/+/25184
+Project: openbmc/meta-inventec
+Branch: refs/heads/master
