@@ -1,3 +1,4 @@
-# UUID                             	Group Name
+# UUID                                  	Group Name
 #
+github:openbmc                          	github/openbmc
 github:openbmc/meta-inventec-maintainers	github/openbmc/meta-inventec-maintainers
